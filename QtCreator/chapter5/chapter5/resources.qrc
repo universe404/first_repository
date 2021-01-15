@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/filesave.png</file>
+        <file>images/filesaveas.png</file>
+        <file>images/find.png</file>
+        <file>images/help.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/cat.jpg</file>
+        <file>images/panda.jpg</file>
+        <file>images/mirror.svg</file>
+        <file>images/mirror_2.svg</file>
+        <file>images/blackwhite.svg</file>
+        <file>images/rotate_left.svg</file>
+        <file>images/rotate_right.svg</file>
+        <file>images/pause.svg</file>
+        <file>images/playing.svg</file>
+        <file>images/voice.svg</file>
+        <file>images/voiceNo.svg</file>
+        <file>images/restore.svg</file>
+        <file>images/save.svg</file>
+        <file>images/saveas.svg</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file>english.qm</file>
+        <file>chinese.ts</file>
+        <file>english.ts</file>
+        <file>chinese.qm</file>
+    </qresource>
+</RCC>

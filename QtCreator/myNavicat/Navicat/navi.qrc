@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imamges/NICON_BACKUP.ico</file>
+        <file>imamges/NICON_DBSEARCH.ico</file>
+        <file>imamges/NICON_DOCK.ico</file>
+        <file>imamges/NICON_EVENT.ico</file>
+        <file>imamges/NICON_FUNCTION.ico</file>
+        <file>imamges/NICON_HISTORY.ico</file>
+        <file>imamges/NICON_MODEL.ico</file>
+        <file>imamges/NICON_QUERY.ico</file>
+        <file>imamges/NICON_REPORT.ico</file>
+        <file>imamges/NICON_TABLE.ico</file>
+        <file>imamges/NICON_USER.ico</file>
+        <file>imamges/NICON_VIEW.ico</file>
+        <file>imamges/favicon.ico</file>
+        <file>imamges/favicon (2).ico</file>
+        <file>imamges/favicon (3).ico</file>
+        <file>imamges/favicon (4).ico</file>
+        <file>imamges/favicon (5).ico</file>
+        <file>imamges/favicon (6).ico</file>
+        <file>imamges/favicon (7).ico</file>
+        <file>imamges/favicon (8).ico</file>
+        <file>imamges/favicon (9).ico</file>
+        <file>imamges/favicon (10).ico</file>
+    </qresource>
+</RCC>
